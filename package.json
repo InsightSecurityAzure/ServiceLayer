@@ -6,6 +6,10 @@
     "start": "func start",
     "test": "echo \"No tests yet...\""
   },
-  "dependencies": {},
+  "dependencies": {
+    "azure-jwt-verify": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "uuid": "^8.1.0"
+  },
   "devDependencies": {}
 }
